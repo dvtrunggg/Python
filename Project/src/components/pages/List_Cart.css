@@ -1,0 +1,61 @@
+.Cart h2{
+    text-align: center;
+}
+
+.add{
+    width: 5%;
+}
+
+.remove{
+    width: 5%;
+}
+
+.add:hover{
+    background-color: cornflowerblue;
+    color: darkgoldenrod;
+}
+
+.remove:hover{
+    background-color: yellowgreen;
+    color: teal;
+}
+
+.buy-cart{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    margin-left: 42%;
+    border-radius: 5%;
+    background-color: #80d4ff;
+}
+.buy-cart:hover{
+    background-color: #4dc3ff;
+}
+
+.Home{
+    width: 20%;
+    margin-left: 42%;
+    border-radius: 5%;
+    background-color: whitesmoke;
+    text-decoration: none;
+}
+.Home:hover{
+    background-color:#b3ffff;
+
+}
+.go-to{
+    text-decoration: none;
+}
+.clear-cart{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    margin-left: 92%;
+    border-radius: 5%;
+    background-color: #ccccb3;
+}
+.clear-cart:hover{
+    background-color: #ffff80;
+}
